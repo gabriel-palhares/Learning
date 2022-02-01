@@ -6,6 +6,6 @@
 * Complete the 2nd semester / Systems Analysis and Development - PUC Minas
 * Learn the foundations: Logic programming, HTML, CSS and Javascript
 * Complete the "Front-End Formation" at Alura
-* Complete The Odin Project
-* Introduction to the Back-End - FIAP
+* Complete The Odin Project until 'Introduction to the Back-End'
+* Java / Fundamentos - FIAP
 * Learn Node.JS and Java
