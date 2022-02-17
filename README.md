@@ -2,10 +2,12 @@
 ### This repository will countain some notes and sidenotes about what I'm learning and my goals.
 
 
-* Finish Banco Inter's Bootcamp
+* Finish Banco Inter's Bootcamp - <b>Accomplished (13/02/2022)</b>
 * Complete the 2nd semester / Systems Analysis and Development - PUC Minas
-* Learn the foundations: Logic programming, HTML, CSS and Javascript
+* Learn and master the foundations:</br>Logic programming, HTML, CSS and Javascript
 * Complete the "Front-End Formation" at Alura
-* Complete The Odin Project until 'Introduction to the Back-End'
-* Java / Fundamentos - FIAP
-* Learn Node.JS and Java
+* Master Vue.js and Node.js // Mocha.js
+* Complete The Odin Project - FullStack JavaScript (Advanced HTML and CSS, JavaScript, Node.js)</br></br>
+* Databases </br>
+MySQL ~ PostgreSQL</br>
+MongoDB
