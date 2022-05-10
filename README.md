@@ -1,5 +1,4 @@
 # Learning
-### This repository will countain some notes and sidenotes about what I'm learning and my goals.
 
 
 * Finish Banco Inter's Bootcamp - <b>Accomplished (13/02/2022)</b>
