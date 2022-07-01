@@ -2,7 +2,7 @@
 
 
 * Finish Banco Inter's Bootcamp - <b>Accomplished (13/02/2022)</b>
-* Complete the 2nd semester / Systems Analysis and Development - PUC Minas
+* Complete the 2nd semester / Systems Analysis and Development - PUC Minas <b>Accomplished (June/2022)</b>
 * Learn and master the foundations:</br>Logic programming, HTML, CSS and Javascript
 * Complete the "Front-End Formation" at Alura
 * Master ReactJS and NodeJS // MochaJS
